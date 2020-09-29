@@ -1,3 +1,4 @@
+[![HitCount](http://hits.dwyl.com/pranikz/https://githubcom/pranikz/Hacktoberfest-2020.svg)](http://hits.dwyl.com/pranikz/https://githubcom/pranikz/Hacktoberfest-2020)
 # Welcome to HacktoberFest 2020!
 
 ## Follow these steps to make your first pull request-
