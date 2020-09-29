@@ -38,3 +38,5 @@ git push [remote-name] master
 -->Check your progress here (https://hacktoberfest.digitalocean.com/profile)
 
 Wait for your swag kit :)
+
+[Thanks to Potential](https://github.com/Potential17/)
