@@ -92,17 +92,17 @@ li {}
   background: linear-gradient(90deg, rgba(11, 7, 91, 1) 12%, rgba(151, 24, 164, 1) 95%);
 }
 
-button:hover {
+.btn:hover {
   background: rgb(11, 7, 91);
   background: linear-gradient(100deg, rgba(11, 7, 91, 1) 12%, rgba(121, 14, 9, 1) 39%, rgba(151, 24, 164, 1) 95%);
 }
 
-button a {
+a {
   font-size: 20px;
   color: #eeecda;
 }
 
-button a:hover {
+ a:hover {
   color: #eeecda;
 }
 .bottom-container{
