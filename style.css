@@ -1,0 +1,100 @@
+/* CSS Class */
+* {
+    box-sizing: border-box;
+}
+body{
+  background-color: #FF9A8B;
+  background-image: linear-gradient(90deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%);
+
+
+}
+h2{
+  font-family: 'Bebas Neue', cursive;
+}
+h1{
+    margin: 0;
+    font-family: 'Bangers', cursive;
+
+}
+.lead{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 40px;
+
+}
+.jumbotron-fluid{
+    padding: 10px;
+}
+.center h2{
+    text-align: center;
+}
+.center li{
+    text-align: center;
+}
+li {
+
+}
+/* -------- */
+.header-bg{
+  background-color: #FF9A8B;
+  background-image: linear-gradient(90deg, #FF9A8B 0%, #FF6A88 55%, #FF99AC 100%);
+
+
+}
+.jumbotron-fluid{
+    /* background-color: #f7ad5e; */
+
+    text-align: center;
+}
+.jumbotron-fluid h1{
+    color: #f4f4f4;
+    font-size: 8rem;
+
+}
+.jumbotron-fluid p{
+    color: #f4f4f4;
+
+
+}
+.imglist{
+list-style: none;
+}
+#footer{
+    background-color: blue;
+    text-align: center;
+    color: red;
+    bottom: 0px;
+}
+
+.list-grid ol{
+    column-count: 3;
+}
+
+@media (max-width: 768px) {
+    .jumbotron-fluid h1 {
+        font-size: 4rem;
+    }
+}
+ .imglist li a{
+  color: #000000;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 20px
+}
+.imglist li a:hover{
+  color:#4e89ae;
+}
+.btn{
+  background: rgb(11,7,91);
+background: linear-gradient(90deg, rgba(11,7,91,1) 12%, rgba(151,24,164,1) 95%);
+}
+button:hover{
+
+  background: rgb(11,7,91);
+background: linear-gradient(100deg, rgba(11,7,91,1) 12%, rgba(121,14,9,1) 39%, rgba(151,24,164,1) 95%);
+}
+button a{
+  font-size: 20px;
+  color: #eeecda;
+}
+button a:hover{
+    color: #eeecda;
+}
