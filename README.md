@@ -1,17 +1,17 @@
 [![HitCount](http://hits.dwyl.com/pranikz/https://githubcom/pranikz/Hacktoberfest-2020.svg)](http://hits.dwyl.com/pranikz/https://githubcom/pranikz/Hacktoberfest-2020)
 # Welcome to HacktoberFest 2020!
 
-## Follow these steps to make your first pull request-
+##  Follow these steps to make your first pull request-
 
-### Fork this repository.
+- Fork this repository.
 
-### Clone your forked repository to your local machine.
+- Clone your forked repository to your local machine.
 
-### In the index file, look for the 'ol' tag. Then insert a 'li' tag with your link to your profile.
+- In the index file, look for the 'ol' tag. Then insert a 'li' tag with your link to your profile.
 
-### Add your name in index.html file.
+- Add your name in index.html file.
 
-### Write these command on your terminal-
+- Write these command on your terminal-
 
 ```sh
 git add index.html
