@@ -39,4 +39,4 @@ git push [remote-name] master
 
 Wait for your swag kit :)
 
-[Thanks to Potential for helping me for the barebone design ](https://github.com/Potential17/)
+[Thanks to Potential for The Collab!! ](https://github.com/Potential17/)
