@@ -46,10 +46,12 @@ h1 {
 }
 
 .center li {
-  text-align: center;
+  text-align: left;
 }
 
-li {}
+ol {
+  padding-left: 20%;
+}
 
 /* -------- */
 .header-bg {
